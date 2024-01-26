@@ -1,6 +1,6 @@
 ### Gitpod 
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Sunbird-cQube/cqube-devops/tree/gitpod-branch)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vaibhavg4651/cqube-devops/tree/gitpod-branch)
 
 Important links when using Gitpod
 
